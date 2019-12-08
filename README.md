@@ -1,4 +1,4 @@
-A Javascript React Application that make a web request using Fetch API so that we get from the GitHub API all the repositories by a keyword and deploy them into a table. 
+A Javascript React Application that make a web request using Fetch API so that we get from the GitHub API all the repositories by a keyword and deploy them into a table( I also include an option using third-party components for React call React-Table). 
 
 
 
